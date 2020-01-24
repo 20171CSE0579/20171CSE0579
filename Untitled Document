@@ -1,6 +1,7 @@
 #include<stdio.h>
 {
   int n=100;
+  int j;
    printf("%d",n);
    printf("The entered number is %d",n);
 
