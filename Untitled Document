@@ -1,7 +1,7 @@
 #include<stdio.h>
 {
   int n=100;
-  int j;
+  int i,sum=10;
    printf("%d",n);
    printf("The entered number is %d",n);
 
